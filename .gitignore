@@ -1,3 +1,5 @@
-/data/database.db
-/node_modules
-.env
+node_modules/
+env.js
+*.zip
+data/
+data/database.db
